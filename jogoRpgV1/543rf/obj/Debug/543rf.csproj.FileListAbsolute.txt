@@ -1,0 +1,14 @@
+C:\Users\aluno2\Source\Repos\543rf\543rf\bin\Debug\543rf.exe.config
+C:\Users\aluno2\Source\Repos\543rf\543rf\bin\Debug\543rf.exe
+C:\Users\aluno2\Source\Repos\543rf\543rf\bin\Debug\543rf.pdb
+C:\Users\aluno2\Source\Repos\543rf\543rf\obj\Debug\543rf.csprojAssemblyReference.cache
+C:\Users\aluno2\Source\Repos\543rf\543rf\obj\Debug\543rf.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Source\Repos\543rf\543rf\obj\Debug\543rf.exe
+C:\Users\aluno2\Source\Repos\543rf\543rf\obj\Debug\543rf.pdb
+C:\Users\aluno1\Downloads\543rf\543rf\bin\Debug\543rf.exe.config
+C:\Users\aluno1\Downloads\543rf\543rf\bin\Debug\543rf.exe
+C:\Users\aluno1\Downloads\543rf\543rf\bin\Debug\543rf.pdb
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\543rf.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\543rf.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\543rf.exe
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\543rf.pdb

@@ -1,0 +1,7 @@
+C:\Users\aluno1\Downloads\543rf\543rf\bin\Debug\543rf.exe.config
+C:\Users\aluno1\Downloads\543rf\543rf\bin\Debug\543rf.exe
+C:\Users\aluno1\Downloads\543rf\543rf\bin\Debug\543rf.pdb
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\JogoRpgV1.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\JogoRpgV1.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\543rf.exe
+C:\Users\aluno1\Downloads\543rf\543rf\obj\Debug\543rf.pdb
